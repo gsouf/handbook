@@ -2,8 +2,9 @@ SHELL UTILS
 ===========
 
 
-Get the directory of the current script (print working directory)
+Get the directory of the current script
 -----------------------------
+aka print working directory
 
 ````
 ROOT=$PWD
