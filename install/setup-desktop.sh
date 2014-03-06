@@ -73,7 +73,8 @@ sudo pear install pear.phpunit.de/PHPUnit
  
  
  
- 
+echo "Installing Ruby"
+sudo apt-get install ruby 
  
  
  
